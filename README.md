@@ -3,7 +3,7 @@ Olá👋
 
 
 
--  Gastrônomo
+
 -  Estou estudando Análise e desenvolvimento de sistemas
 -  Procuro ajuda com C++
 -  Me pergunte sobre Gastronomia!
