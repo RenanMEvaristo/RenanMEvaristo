@@ -5,7 +5,7 @@ Olá👋
 
 
 -  Estou estudando Análise e desenvolvimento de sistemas
--  Procuro ajuda com C++
+-  Procuro ajuda com C
 -  Me pergunte sobre Gastronomia!
 -  contato: devrme01@gmail.com 
 
